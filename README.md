@@ -1,6 +1,6 @@
 ![logo](https://github.com/mrramrawat/mrramrawat/blob/main/ram5.jpg)
 <h1 align="center">Hi 👋, I'm Er. Ram Bdr Rawat</h1>
-<h3 align="center">👨‍💻 Computer Engineer  | MERN Stack Developer | Python Enthusiast</h3>
+<h3 align="center">👨‍💻 Computer Engineer  | MERN Stack Developer | AI Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrramrawat&label=Profile%20views&color=0e75b6&style=flat" alt="mrramrawat" /> </p>
