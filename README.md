@@ -1,3 +1,4 @@
+![logo](https://github.com/mrramrawat/mrramrawat/blob/main/ram5.jpg)
 <h1 align="center">Hi 👋, I'm Er. Ram Bdr Rawat</h1>
 <h3 align="center">👨‍💻 Computer Engineering Student | MERN Stack Developer | Python Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
